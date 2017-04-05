@@ -1,0 +1,2 @@
+# manifesto
+DevTechScot's Manifesto
